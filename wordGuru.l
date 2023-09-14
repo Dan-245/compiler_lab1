@@ -1,4 +1,4 @@
-/*** Definition Section has one variable
+/*** Definition Section has five variable
 which can be accessed inside yylex()
 and main() ***/
 %{
