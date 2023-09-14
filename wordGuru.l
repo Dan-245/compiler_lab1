@@ -9,7 +9,7 @@ int count_p = 0;
 int count_w = 0;
 %}
  
-/*** Rule Section has three rules, first rule
+/*** Rule Section has seven rules, first rule
 matches with small letters, second rule
 matches with capital letters, third rule
 matches with digits, fourth rule
